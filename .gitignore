@@ -1,0 +1,4 @@
+process_images.py
+image_manifest.json
+.DS_Store
+Thumbs.db
